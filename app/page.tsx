@@ -36,6 +36,9 @@ export default function Home() {
           <Link className="text-sm font-medium hover:underline underline-offset-4" href="/price">
             价格
           </Link>
+          <Link className="text-sm font-medium hover:underline underline-offset-4" href="/dogecoin-wallet">
+            狗狗币钱包
+          </Link>
           <Link className="text-sm font-medium hover:underline underline-offset-4" href="/login">
             登录
           </Link>
